@@ -19,7 +19,7 @@ O **Azure AI Search** é um serviço baseado em nuvem que fornece recursos avan�
    - **Grupo de Recursos**: Selecione um grupo existente ou crie um novo.
    - **Nome do Serviço de Pesquisa**: Escolha um nome único.
    - **Localização**: Escolha uma região próxima ao seu público-alvo.
-   - **Camada de Preço**: Escolha uma camada compatível com seu orçamento e necessidades (ex.: Free, Basic, Standard, etc.).
+   - **Camada de Preço**: Escolha uma camada compatível com seu orçamento e necessidades.
 6. Clique em **Revisar + Criar** e depois em **Criar**.
 
 ### 2.2 Criando um Índice de Busca
